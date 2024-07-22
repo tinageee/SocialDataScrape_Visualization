@@ -1,9 +1,28 @@
 ## Social Consulting Firm Take-Home Exercise
 
-Task 1: Scrape and analyze ‘Crime news’ headlines from recent weeks. Save data to CSV, perform sentiment analysis, and visualize sentiment trends over time.
+### Exercise Tasks
 
-Task 2: Explore and visualize NYPD crime statistics using the attached dataset.
+#### Task 1: Crime News Analysis
+- **Objective**: Analyze ‘Crime news’ headlines from recent weeks.
+- **Outputs**:
+  - CSV file with scraped data.
+  - Sentiment analysis results.
+  - Time-series plot of sentiment trends.
+  - [**NewsHeadline.ipynb**](./NewsHeadline.ipynb)
 
-Task 3: Write a brief on the components and challenges of implementing Large Language Models (LLMs).
 
-Explore data, extract insights, and apply natural language processing techniques using Python in Jupyter Notebooks.
+#### Task 2: NYPD Crime Data Visualization
+- **Objective**: Analyze and visualize crime data from the NYPD.
+- **Outputs**:
+  - Various visualizations showcasing crime trends and patterns.
+  - [**NYPD.ipynb**](./NYPD.ipynb)
+
+#### Task 3: Large Language Model Discussion
+- **Objective**: Understand and articulate the challenges and components of LLMs.
+- **Outputs**:
+  - Detailed report in `LLM_Questions.md`.
+  - [**LLM_Questions.md**](./LLM_Questions.md)
+
+### Usage Instructions
+
+Follow the instructions within each file to execute the tasks and generate the required outputs. Ensure you have the necessary Python libraries installed to run the Jupyter Notebooks.
