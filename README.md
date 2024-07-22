@@ -1,0 +1,2 @@
+# SocialDataScrape_Visualization
+ Social Consulting Firm Take-Home Exercise  Task 1: Scrape and analyze ‘Crime news’ headlines from recent weeks. Save data to CSV, perform sentiment analysis, and visualize sentiment trends over time.  Task 2: Explore and visualize NYPD crime statistics using the attached dataset.  Task 3: Write a brief on the components and challenges of implementing Large Language Models (LLMs).  Explore data, extract insights, and apply natural language processing techniques using Python in Jupyter Notebooks.
